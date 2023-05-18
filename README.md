@@ -146,6 +146,8 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ## client output
 ![2023-05-18](https://github.com/22008837/cover-page-design/assets/120194155/e5ac19cd-1e79-4697-820a-150801c45f1a)
 ## server output
+![cover output](https://github.com/22008837/cover-page-design/assets/120194155/d9fc3cf0-9296-4c3e-87a1-9b0732324d0e)
+## validation
 ![2023-05-18 (1)](https://github.com/22008837/cover-page-design/assets/120194155/a0717cba-157f-4199-a206-02e57631767d)
 
 ## Result:
